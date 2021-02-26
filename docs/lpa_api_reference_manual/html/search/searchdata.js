@@ -4,11 +4,11 @@ var indexSectionsWithContent =
   1: "acopst",
   2: "cow",
   3: "abcdefilnoprsuw",
-  4: "ao",
-  5: "aclo",
-  6: "aclop",
+  4: "a",
+  5: "ac",
+  6: "acp",
   7: "gl",
-  8: "l"
+  8: "c"
 };
 
 var indexSectionNames =
